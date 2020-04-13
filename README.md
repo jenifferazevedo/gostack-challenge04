@@ -12,4 +12,4 @@ The goal was to develop a mobile application, show and like the repositories.
 ### Tests
 - [X] Should add a like to the like counter of the repository.
 
-![](https://github.com/jenifferazevedo/gostack-challenge02/blob/master/docs/mobile.JPG)
+![](https://github.com/jenifferazevedo/gostack-challenge04/blob/master/docs/mobile.JPG)
